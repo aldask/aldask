@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">I'm excited to have you visit my GitHub profile! I'm a passionate front-end developer on a journey of continuous learning and growth.</p>
+<p align="left">I'm excited to have you visit my GitHub profile! I'm a passionate Front-End developer on a journey of continuous learning and growth.</p>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<h3 align="left">🛠️ My Bigger Projects</h3>
+<h3 align="left">🛠️ My Bigger Projects:</h3>
 
 <p align="left">
   <a href="https://github.com/aldask/car-rental" target="_blank">
@@ -37,10 +37,6 @@
     <img src="https://github.com/aldask/gym/raw/main/public/logo.png" alt="Iron Gym" width="75" height="50" />
   </a>
 </p>
-
-###
-
-<p align="left">In this space, you'll find a collection of my projects, experiments, and study notes. Feel free to explore and provide any feedback or suggestions you might have.</p>
 
 ###
 
