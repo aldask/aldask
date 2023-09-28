@@ -29,9 +29,12 @@
 
 ###
 
-<h3 align="left">🛠️ My Bigger Projects:</h3>
+<h3 align="left">🛠️ My Major Projects:</h3>
 
 <p align="left">
+  <a href="https://github.com/aldask/aldas-portfolio" target="_blank">
+    <img src="https://raw.githubusercontent.com/aldask/aldas-portfolio/main/public/favicon.ico" alt="Portfolio" width="50" height="50" />
+  </a>
   <a href="https://github.com/aldask/car-rental" target="_blank">
     <img src="https://github.com/aldask/car-rental/raw/main/public/logo.png" alt="CarO Car Rentals" width="170" height="50" />
   </a>
