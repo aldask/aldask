@@ -39,7 +39,7 @@
     <img src="https://github.com/aldask/gym/raw/main/public/logo.png" alt="Iron Gym" width="75" height="50" />
   </a>
   <a href="https://github.com/aldask/aldas-portfolio" target="_blank">
-    <img src="https://raw.githubusercontent.com/aldask/aldas-portfolio/readme/public/logo.png" alt="Portfolio" width="228" height="50" />
+    <img src="https://github.com/aldask/aldas-portfolio/raw/main/public/logo.png" alt="Portfolio" width="228" height="50" />
   </a>
 </p>
 
