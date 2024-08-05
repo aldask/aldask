@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm excited to have you visit my GitHub profile! I'm a passionate Front-End developer on a journey of continuous learning and growth.</p>
+<p align="left">I'm excited to have you visit my GitHub profile! I'm a passionate Full-Stack developer on a journey of continuous learning and growth.</p>
 
 ###
 
@@ -18,6 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" alt=".net logo" />
 </div>
 
 ###
@@ -73,6 +75,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" alt=".net logo" />
 </div>
 
 ###
