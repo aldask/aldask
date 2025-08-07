@@ -1,31 +1,52 @@
-<h1 align="center">Hi 👋, I'm Aldevinas. But You can call me Aldas</h1>
+# Hi 👋, I'm Aldas - Full-Stack Developer & Tech Enthusiast
 
-###
+---
 
-<p align="center">Update in progress</p>
+Welcome to my GitHub!  
+I'm Aldas, a passionate Full-Stack developer on an exciting journey of continuous growth and learning. I thrive on building sleek, efficient, and scalable web applications.
 
-###
+---
 
-<h3 align="center">💻 Technologies that I'm familiar with:</h3>
+## 🚀 Check Out My Portfolio
 
-###
+<p>
+  <a href="https://aldas.vercel.app" target="_blank">
+    <img src="https://github.com/aldask/aldas-portfolio/raw/main/public/logo.png" alt="Aldas Portfolio" width="300" height="70" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+Explore my latest work, projects and skills all in one place.  
+
+---
+
+## 💻 Tech Stack & Tools
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg" height="40" alt=".net logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg" height="40" alt=".NET" />
 </div>
+
+---
+
+Thanks for stopping by! Feel free to connect or check out my projects.  
+Let’s build something awesome together! 🚀
+
+---
+
+*Find me on:*  
+[LinkedIn](https://linkedin.com/in/aldas-kasputis-2ab99b1b4) | [Portfolio](https://aldas.vercel.app)
