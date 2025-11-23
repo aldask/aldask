@@ -11,7 +11,7 @@ I'm Aldas, a passionate Full-Stack developer on an exciting journey of continuou
 
 <p>
   <a href="https://aldas.vercel.app" target="_blank">
-    <img src="https://github.com/aldask/aldas-portfolio/raw/main/public/logo.png" alt="Aldas Portfolio" width="300" height="70" />
+    Aldas Portfolio
   </a>
 </p>
 
